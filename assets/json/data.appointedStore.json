@@ -1,0 +1,1769 @@
+[{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd0"
+  },
+  "id":1,
+  "logo": "logo_1.png",
+  "storeName": "台中商旅",
+  "telephone": "04-2255-6688",
+  "storeAdd": "台中西屯區台灣大道三段593號",
+  "contactPerson": "林亦晴",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "經典客房",
+      "orgPrice": "NTD 7,000+10%",
+      "preferential": "NTD 3,000",
+      "preferentialHoliday1": "NTD 3,300",
+      "preferentialHoliday2": "NTD 3,300"
+    },
+    {
+      "type": "精粹客房",
+      "orgPrice": "NTD 7,500+10%",
+      "preferential": "NTD 3,300",
+      "preferentialHoliday1": "NTD 3,600",
+      "preferentialHoliday2": "NTD 3,600"
+    },
+    {
+      "type": "菁英客房",
+      "orgPrice": "NTD 8,500+10%",
+      "preferential": "NTD 3,800",
+      "preferentialHoliday1": "NTD 4,100",
+      "preferentialHoliday2": "NTD 4,100"
+    },
+    {
+      "type": "景觀客房",
+      "orgPrice": "NTD 9,000+10%",
+      "preferential": "NTD 4,000",
+      "preferentialHoliday1": "NTD 4,300",
+      "preferentialHoliday2": "NTD 4,300"
+    },
+    {
+      "type": "豪華客房(兩床)",
+      "orgPrice": "NTD 11,000+10%",
+      "preferential": "NTD 3,600(2早)/NTD 4,250(4早)",
+      "preferentialHoliday1": "NTD 4,300(2早)/NTD 4,800(4早)",
+      "preferentialHoliday2": "NTD 4,300(2早)/NTD 4,800(4早)"
+    },
+    {
+      "type": "行政套房",
+      "orgPrice": "NTD 12,500+10%",
+      "preferential": "NTD 4,800",
+      "preferentialHoliday1": "NTD 5,100",
+      "preferentialHoliday2": "NTD 5,100"
+    },
+    {
+      "type": "自助式早餐",
+      "orgPrice": "NTD 450+10%",
+      "preferential": "NTD 360",
+      "preferentialHoliday1": "NTD 360",
+      "preferentialHoliday2": "NTD 360"
+    }
+  ],
+  "notice": [
+    "此優惠價格均已含5%營業稅，10%服務費及1客自助早餐。(豪華客房含2~4早)",
+    "以上房價不適用於農曆春節期間。",
+    "豪華客房(兩床)如遇週六或假日視同連續假期房價。",
+    "假日及連續假日定義，依飯店規定為準",
+    "如需加床每晚則需加收NT$1,000元(含早餐及備品)",
+    "辦理進房時間:平日下午3點後;假日:下午5點後，退房時間皆為:中午12點前。",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "1.png",
+  "location":"https://www.google.com/maps/place/407%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%B1%AF%E5%8D%80%E8%87%BA%E7%81%A3%E5%A4%A7%E9%81%93%E4%B8%89%E6%AE%B5593%E8%99%9F/@24.1698322,120.637352,15z/data=!4m6!3m5!1s0x34693df680231a8f:0xdef5601f80750de3!8m2!3d24.1698322!4d120.637352!16s%2Fg%2F11cs91dk3n",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd1"
+  },
+  "id":2,
+  "logo": "logo_2.png",
+  "storeName": "日健健檢中心",
+  "telephone": "04-2329-6899",
+  "storeAdd": "台中西區台灣大道二段218號17樓",
+  "contactPerson": "林欣樺",
+  "limDate": "2023/12/31",
+  "container": [
+    "1.欲於平日受檢，應於受檢前七日預約。若欲於假日受檢，應於受檢前30日預約。",
+    "2.預約時需高知服務人員要做瑛誼綠科技的檢驗套餐，費用臨櫃繳付。",
+    "3.檢驗報告郵寄費用$50/地址",
+    "4.營業時間：週一至週六 上午08:00-下午17:30",
+    "5.週日：上午08:00-上午12:00(公休日除外)",
+    "6.公休時間：每月第一個週日及週一連休，每月第三個週日、國定假日公休",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "5",
+  "img": "2.png",
+  "location":"https://www.google.com/maps/place/403%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%A5%BF%E5%8D%80%E8%87%BA%E7%81%A3%E5%A4%A7%E9%81%93%E4%BA%8C%E6%AE%B5218%E8%99%9F17%E6%A8%93/@24.1521364,120.6664335,17z/data=!3m1!4b1!4m6!3m5!1s0x34693d76ff325d3d:0x354daa56c9984836!8m2!3d24.1521315!4d120.6690084!16s%2Fg%2F11qp_cx1zq?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd2"
+  },
+  "id":3,
+  "logo": "logo_3.png",
+  "storeName": "赤鬼",
+  "telephone": "",
+  "storeAdd": "全台門市",
+  "contactPerson": "李依芸",
+  "limDate": "2023/12/31",
+  "container": [
+    "1.凡特約廠商即享有現金價九五折。",
+    "2.須於完成結帳前主動出示特約廠商識別二維碼且經掃瞄確認可使用，否則視同放棄優惠。",
+    "3.本優惠不與其他優惠併用",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "3.png",
+  "location":"",
+  "area":4
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd3"
+  },
+  "id":4,
+  "logo": "logo_4.png",
+  "storeName": "城市商旅 真愛館",
+  "telephone": "07-521-5116",
+  "storeAdd": "高雄市鹽埕區大義街1號",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "標準客房",
+      "orgPrice": "NTD 6,000",
+      "preferential": "NTD 1,800",
+      "preferentialHoliday1": "NTD 2,400",
+      "preferentialHoliday2": "NTD 3,600"
+    },
+    {
+      "type": "精緻客房",
+      "orgPrice": "NTD 7,000",
+      "preferential": "NTD 2,100",
+      "preferentialHoliday1": "NTD 2,700",
+      "preferentialHoliday2": "NTD 4,200"
+    },
+    {
+      "type": "城市客房",
+      "orgPrice": "NTD 9,000",
+      "preferential": "NTD 2,400",
+      "preferentialHoliday1": "NTD 3,000",
+      "preferentialHoliday2": "NTD 5,400"
+    },
+    {
+      "type": "港景城市客房",
+      "orgPrice": "NTD 10,000",
+      "preferential": "NTD 2,700",
+      "preferentialHoliday1": "NTD 3,300",
+      "preferentialHoliday2": "NTD 6,000"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "4.png",
+  "location":"https://www.google.com/maps/place/803%E9%AB%98%E9%9B%84%E5%B8%82%E9%B9%BD%E5%9F%95%E5%8D%80%E5%A4%A7%E7%BE%A9%E8%A1%971%E8%99%9F/@22.6190091,120.2820687,17z/data=!3m1!4b1!4m6!3m5!1s0x346e0479c3191ccb:0xab02803ae70f77c9!8m2!3d22.6190042!4d120.2846436!16s%2Fg%2F11c1yn52xd?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd4"
+  },
+  "id":5,
+  "logo": "logo_4.png",
+  "storeName": "城市商旅 駁二館",
+  "telephone": "07-532-2777",
+  "storeAdd": "高雄市鹽埕區公園二路83號",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "精緻客房",
+      "orgPrice": "NTD 8,000",
+      "preferential": "NTD 1,700",
+      "preferentialHoliday1": "NTD 2,300",
+      "preferentialHoliday2": "NTD 4,800"
+    },
+    {
+      "type": "豪華客房",
+      "orgPrice": "NTD 9,000",
+      "preferential": "NTD 2,000",
+      "preferentialHoliday1": "NTD 2,600",
+      "preferentialHoliday2": "NTD 5,400"
+    },
+    {
+      "type": "標準家庭房",
+      "orgPrice": "NTD 9,000",
+      "preferential": "NTD 1,800",
+      "preferentialHoliday1": "NTD 2,400",
+      "preferentialHoliday2": "NTD 5,400"
+    },
+    {
+      "type": "精緻家庭房",
+      "orgPrice": "NTD 10,000",
+      "preferential": "NTD 2,100",
+      "preferentialHoliday1": "NTD 2,700",
+      "preferentialHoliday2": "NTD 6,000"
+    },
+    {
+      "type": "豪華家庭房",
+      "orgPrice": "NTD 10,000",
+      "preferential": "NTD 2,400",
+      "preferentialHoliday1": "NTD 3,000",
+      "preferentialHoliday2": "NTD 6,000"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "5.png",
+  "location":"https://www.google.com/maps/place/803%E9%AB%98%E9%9B%84%E5%B8%82%E9%B9%BD%E5%9F%95%E5%8D%80%E5%85%AC%E5%9C%92%E4%BA%8C%E8%B7%AF83%E8%99%9F/@22.6200828,120.2827239,17z/data=!3m1!4b1!4m6!3m5!1s0x346e0477f10a9b1b:0xc7b3efbfa356ff59!8m2!3d22.6200779!4d120.2852988!16s%2Fg%2F12hslbb3x?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd5"
+  },
+  "id":6,
+  "logo": "logo_6.png",
+  "storeName": "德立莊 博愛館",
+  "telephone": "07-323-8777",
+  "storeAdd": "高雄市三民區博愛一路338號",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "精緻雙人房",
+      "orgPrice": "NTD 6,000",
+      "preferential": "NTD 1,600",
+      "preferentialHoliday1": "NTD 2,200",
+      "preferentialHoliday2": "NTD 3,600"
+    },
+    {
+      "type": "市景雙人房",
+      "orgPrice": "NTD 7,000",
+      "preferential": "NTD 1,800",
+      "preferentialHoliday1": "NTD 2,400",
+      "preferentialHoliday2": "NTD 4,200"
+    },
+    {
+      "type": "市景雙床房",
+      "orgPrice": "NTD 9,000",
+      "preferential": "NTD 1,600",
+      "preferentialHoliday1": "NTD 2,200",
+      "preferentialHoliday2": "NTD 5,400"
+    },
+    {
+      "type": "市景三人房",
+      "orgPrice": "NTD 10,000",
+      "preferential": "NTD 2,000",
+      "preferentialHoliday1": "NTD 2,600",
+      "preferentialHoliday2": "NTD 6,000"
+    },
+    {
+      "type": "精緻家庭房",
+      "orgPrice": "NTD 10,000",
+      "preferential": "NTD 2,100",
+      "preferentialHoliday1": "NTD 2,700",
+      "preferentialHoliday2": "NTD 6,000"
+    },
+    {
+      "type": "市景家庭房",
+      "orgPrice": "NTD 11,000",
+      "preferential": "NTD 2,500",
+      "preferentialHoliday1": "NTD 3,100",
+      "preferentialHoliday2": "NTD 3,600"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "6.png",
+  "location":"https://www.google.com/maps/place/807%E9%AB%98%E9%9B%84%E5%B8%82%E4%B8%89%E6%B0%91%E5%8D%80%E5%8D%9A%E6%84%9B%E4%B8%80%E8%B7%AF338%E8%99%9F/@22.6503903,120.301213,17z/data=!3m1!4b1!4m6!3m5!1s0x346e04fbd2c9f457:0x3c8588a9ffa9b159!8m2!3d22.6503854!4d120.3037879!16s%2Fg%2F11c5jjfchh?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd6"
+  },
+  "id":7,
+  "logo": "logo_7.png",
+  "storeName": "PAPA WHALE 美麗島館",
+  "telephone": "07-251-9888",
+  "storeAdd": "高雄市新興區民生一路328號(美麗島6號出口)",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "SOHO雙人房(一大床)",
+      "orgPrice": "NTD 9,000",
+      "preferential": "NTD 1,300",
+      "preferentialHoliday1": "NTD 1,900",
+      "preferentialHoliday2": "NTD 5,400"
+    },
+    {
+      "type": "豪華雙人房",
+      "orgPrice": "NTD 9,000",
+      "preferential": "NTD 1,500",
+      "preferentialHoliday1": "NTD 2,100",
+      "preferentialHoliday2": "NTD 5,400"
+    },
+    {
+      "type": "豪華家庭房",
+      "orgPrice": "NTD 12,000",
+      "preferential": "NTD 2,250",
+      "preferentialHoliday1": "NTD 2,850",
+      "preferentialHoliday2": "NTD 7,200"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "7.png",
+  "location":"https://www.google.com/maps/place/800%E9%AB%98%E9%9B%84%E5%B8%82%E6%96%B0%E8%88%88%E5%8D%80%E6%B0%91%E7%94%9F%E4%B8%80%E8%B7%AF328%E8%99%9F/@22.6277222,120.3019864,17z/data=!3m1!4b1!4m6!3m5!1s0x346e048f3de552b7:0xe581e0662cd80cd5!8m2!3d22.6277173!4d120.3045613!16s%2Fg%2F11cpffvj62?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd7"
+  },
+  "id":8,
+  "logo": "logo_4.png",
+  "storeName": "城市商旅 南西館",
+  "telephone": "02-2550-7722",
+  "storeAdd": "台北市大同區南京西路169號",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "標準客房",
+      "orgPrice": "NTD 7,500",
+      "preferential": "NTD 3,100",
+      "preferentialHoliday1": "NTD 3,600",
+      "preferentialHoliday2": "NTD 6,000"
+    },
+    {
+      "type": "精緻客房",
+      "orgPrice": "NTD 8,500",
+      "preferential": "NTD 3,300",
+      "preferentialHoliday1": "NTD 3,800",
+      "preferentialHoliday2": "NTD 6,300"
+    },
+    {
+      "type": "豪華客房",
+      "orgPrice": "NTD 9,500",
+      "preferential": "NTD 3,800",
+      "preferentialHoliday1": "NTD 4,300",
+      "preferentialHoliday2": "NTD 7,000"
+    },
+    {
+      "type": "主管客房",
+      "orgPrice": "NTD 11,000",
+      "preferential": "NTD 4,200",
+      "preferentialHoliday1": "NTD 4,700",
+      "preferentialHoliday2": "NTD 8,100"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "8.png",
+  "location":"https://www.google.com/maps/place/103%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%90%8C%E5%8D%80%E5%8D%97%E4%BA%AC%E8%A5%BF%E8%B7%AF169%E8%99%9F/@25.0541125,121.5103275,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a9135df72bc5:0x2e6af28ab54ffd04!8m2!3d25.0541077!4d121.5129024!16s%2Fg%2F11c2cnwphp?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd8"
+  },
+  "id":9,
+  "logo": "logo_4.png",
+  "storeName": "城市商旅 南東館",
+  "telephone": "02-2742-5888",
+  "storeAdd": "台北市南京東路五段411號",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "舒活客房",
+      "orgPrice": "NTD 8,500",
+      "preferential": "NTD 1,700",
+      "preferentialHoliday1": "NTD 2,200",
+      "preferentialHoliday2": "NTD 5,250"
+    },
+    {
+      "type": "標準客房",
+      "orgPrice": "NTD 8,500",
+      "preferential": "NTD 2,900",
+      "preferentialHoliday1": "NTD 3,400",
+      "preferentialHoliday2": "NTD 5,950"
+    },
+    {
+      "type": "豪華客房",
+      "orgPrice": "NTD 9,500",
+      "preferential": "NTD 3,200",
+      "preferentialHoliday1": "NTD 3,700",
+      "preferentialHoliday2": "NTD 6,650"
+    },
+    {
+      "type": "主管客房",
+      "orgPrice": "NTD 11,000",
+      "preferential": "NTD 4,100",
+      "preferentialHoliday1": "NTD 4,600",
+      "preferentialHoliday2": "NTD 8,050"
+    },
+    {
+      "type": "城市客房",
+      "orgPrice": "NTD 12,000",
+      "preferential": "NTD 4,400",
+      "preferentialHoliday1": "NTD 4,900",
+      "preferentialHoliday2": "NTD 8,750"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "9.png",
+  "location":"https://www.google.com/maps/place/105%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%94%E6%AE%B5411%E8%99%9F/@25.0515119,121.5674371,17z/data=!3m1!4b1!4m6!3m5!1s0x3442ab974b297ceb:0x89b2f6ab8f925c23!8m2!3d25.0515071!4d121.570012!16s%2Fg%2F11c29mv7dx?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dd9"
+  },
+  "id":10,
+  "logo": "logo_6.png",
+  "storeName": "德立莊",
+  "telephone": " 02-2375-7777",
+  "storeAdd": "台北市中正區秀山街4號",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "精緻雙床房",
+      "orgPrice": "NTD 12,000",
+      "preferential": "NTD 1,800",
+      "preferentialHoliday1": "NTD 2,800",
+      "preferentialHoliday2": "NTD 6,600"
+    },
+    {
+      "type": "高級/市景雙床房",
+      "orgPrice": "NTD 12,000",
+      "preferential": "NTD 2,000",
+      "preferentialHoliday1": "NTD 3,000",
+      "preferentialHoliday2": "NTD 6,600"
+    },
+    {
+      "type": "市景精緻雙人房",
+      "orgPrice": "NTD 14,000",
+      "preferential": "NTD 3,200",
+      "preferentialHoliday1": "NTD 4,200",
+      "preferentialHoliday2": "NTD 7,800"
+    },
+    {
+      "type": "高級家庭房",
+      "orgPrice": "NTD 15,000",
+      "preferential": "NTD 3,400",
+      "preferentialHoliday1": "NTD 4,400",
+      "preferentialHoliday2": "NTD 9,000"
+    },
+    {
+      "type": "市景豪華家庭房",
+      "orgPrice": "NTD 18,000",
+      "preferential": "NTD 3,600",
+      "preferentialHoliday1": "NTD 4,600",
+      "preferentialHoliday2": "NTD 12,000"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "10.png",
+  "location":"https://www.google.com/maps/place/100%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E7%A7%80%E5%B1%B1%E8%A1%974%E8%99%9F/@25.0425276,121.5068577,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a90bcfa1f5a9:0x5a5b80275c717aec!8m2!3d25.0425228!4d121.5094326!16s%2Fg%2F12hljwjmx?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dda"
+  },
+  "id":11,
+  "logo": "logo_7.png",
+  "storeName": "PAPA WHALE 昆明館",
+  "telephone": " 02-2375-7777",
+  "storeAdd": "台北市萬華區昆明街46號",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "精緻雙人房",
+      "orgPrice": "NTD 14,000",
+      "preferential": "NTD 1,800",
+      "preferentialHoliday1": "NTD 2,500",
+      "preferentialHoliday2": "NTD 4,600"
+    },
+    {
+      "type": "精緻雙床房",
+      "orgPrice": "NTD 14,000",
+      "preferential": "NTD 1,800",
+      "preferentialHoliday1": "NTD 2,500",
+      "preferentialHoliday2": "NTD 4,600"
+    },
+    {
+      "type": "市景精緻雙人房",
+      "orgPrice": "NTD 14,000",
+      "preferential": "NTD 3,200",
+      "preferentialHoliday1": "NTD 4,200",
+      "preferentialHoliday2": "NTD 7,800"
+    },
+    {
+      "type": "高級家庭房",
+      "orgPrice": "NTD 15,000",
+      "preferential": "NTD 3,400",
+      "preferentialHoliday1": "NTD 4,400",
+      "preferentialHoliday2": "NTD 9,000"
+    },
+    {
+      "type": "市景豪華家庭房",
+      "orgPrice": "NTD 18,000",
+      "preferential": "NTD 3,600",
+      "preferentialHoliday1": "NTD 4,600",
+      "preferentialHoliday2": "NTD 12,000"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "11.png",
+  "location":"https://www.google.com/maps/place/Hotel+PaPa+Whale/@25.0468183,121.5045273,18z/data=!4m20!1m10!3m9!1s0x3442a90f275a0cab:0x42a3ade1186ebcd3!2sHotel+PaPa+Whale!5m2!4m1!1i2!8m2!3d25.0467576!4d121.5058201!16s%2Fg%2F11c45njbhk!3m8!1s0x3442a90f275a0cab:0x42a3ade1186ebcd3!5m2!4m1!1i2!8m2!3d25.0467576!4d121.5058201!16s%2Fg%2F11c45njbhk?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974ddb"
+  },
+  "id":12,
+  "logo": "logo_4.png",
+  "storeName": "城市商旅 航空館",
+  "telephone": " 03-385-3017",
+  "storeAdd": "桃園市大園區中正東路442號",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "精緻客房",
+      "orgPrice": "NTD 3,600",
+      "preferential": "NTD 1,900",
+      "preferentialHoliday1": "NTD 2,400",
+      "preferentialHoliday2": "NTD 2,900"
+    },
+    {
+      "type": "豪華客房",
+      "orgPrice": "NTD 4,500",
+      "preferential": "NTD 2,500",
+      "preferentialHoliday1": "NTD 3,000",
+      "preferentialHoliday2": "NTD 3,500"
+    },
+    {
+      "type": "主管客房",
+      "orgPrice": "NTD 5,000",
+      "preferential": "NTD 2,800",
+      "preferentialHoliday1": "NTD 3,400",
+      "preferentialHoliday2": "NTD 3,900"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "12.png",
+  "location":"https://www.google.com/maps/place/%E5%9F%8E%E5%B8%82%E5%95%86%E6%97%85+%E6%A1%83%E5%9C%92%E8%88%AA%E7%A9%BA%E9%A4%A8/@25.0586681,121.2089203,17z/data=!3m1!4b1!4m10!3m9!1s0x3468208686dc395b:0xa550786332cba20b!5m3!1s2023-09-06!4m1!1i2!8m2!3d25.0586633!4d121.2114952!16s%2Fg%2F11b86hywxy?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974ddc"
+  },
+  "id":13,
+  "logo": "logo_4.png",
+  "storeName": "城市商旅 桃園車站館",
+  "telephone": " 02-25522181",
+  "storeAdd": "桃園市桃園區中正路60號",
+  "contactPerson": "鄭堯安",
+  "limDate": "2023/12/31",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "標準客房",
+      "orgPrice": "NTD 3,500",
+      "preferential": "NTD 1,900",
+      "preferentialHoliday1": "NTD 2,400",
+      "preferentialHoliday2": "NTD 2,900"
+    },
+    {
+      "type": "精緻雙床房",
+      "orgPrice": "NTD 4,000",
+      "preferential": "NTD 2,100",
+      "preferentialHoliday1": "NTD 2,600",
+      "preferentialHoliday2": "NTD 3,100"
+    },
+    {
+      "type": "豪華客房",
+      "orgPrice": "NTD 5,000",
+      "preferential": "NTD 2,200",
+      "preferentialHoliday1": "NTD 2,700",
+      "preferentialHoliday2": "NTD 3,200"
+    }
+  ],
+  "notice": [
+    "享房價優惠(價格皆包含稅金及服務費)。",
+    "訂房時告知統編(53407680)",
+    "入住時請出示員工證/會員證",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "13.png",
+  "location":"https://www.google.com/maps/place/%E5%9F%8E%E5%B8%82%E5%95%86%E6%97%85%E6%A1%83%E5%9C%92%E8%BB%8A%E7%AB%99%E9%A4%A8/@25.058745,121.1702956,13z/data=!4m17!1m5!2m4!1z5Z-O5biC5ZWG5peFIOahg-Wckui7iuermemkqA!5m2!5m1!1s2023-09-06!3m10!1s0x34681fb028d328f5:0x8938b13d1fcbc88c!5m3!1s2023-09-06!4m1!1i2!8m2!3d24.991682!4d121.3130203!15sChzln47luILllYbml4Ug5qGD5ZyS6LuK56uZ6aSoIgOIAQFaISIf5Z-O5biCIOWVhuaXhSDmoYPlnJIg6LuK56uZIOmkqJIBBWhvdGVsmgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJITkRSWVlYaEJSUkFC4AEA!16s%2Fg%2F11fmmvnqsy?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974ddd"
+  },
+  "id":14,
+  "logo": "logo_14.png",
+  "storeName": "史提克 員林店",
+  "telephone": "04-839-5576",
+  "storeAdd": "員林市中山路二段514號1樓",
+  "contactPerson": "",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證九五折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "14.png",
+  "location":"https://www.google.com/maps/place/510%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E8%B7%AF%E4%BA%8C%E6%AE%B5514%E8%99%9F/@23.9719518,120.5690086,17z/data=!3m1!4b1!4m6!3m5!1s0x34693655198d23d5:0x6e1dd7e42a8761ed!8m2!3d23.9719469!4d120.5715835!16s%2Fg%2F11c26n3qqc?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dde"
+  },
+  "id":15,
+  "logo": "logo_14.png",
+  "storeName": "史提克 豐原店",
+  "telephone": "04-2528-1321",
+  "storeAdd": "台中市豐原區圓環東路419號",
+  "contactPerson": "羅琦閔",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享平日9折、假日95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "14.png",
+  "location":"https://www.google.com/maps/place/420%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%B1%90%E5%8E%9F%E5%8D%80%E5%9C%93%E7%92%B0%E6%9D%B1%E8%B7%AF419%E8%99%9F/@24.2466499,120.7233657,17z/data=!3m1!4b1!4m6!3m5!1s0x34691a1b0310e7a1:0x3d0bf76cae74c90!8m2!3d24.246645!4d120.7259406!16s%2Fg%2F11c28f4vgj?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974ddf"
+  },
+  "id":16,
+  "logo": "logo_16.png",
+  "storeName": "麗寶福容大飯店",
+  "telephone": " 04-2558-6108",
+  "storeAdd": "台中市后里區福容路8號",
+  "contactPerson": "凃懿珊",
+  "limDate": "2023/12/31",
+  "container": [
+    "1.飯店訂房享簽約優惠價(麗寶福容大飯店及麗寶賽車主題旅店)",
+    "2.樂園門票享簽約優惠價(探索世界/馬拉灣/天空之夢/摩天輪)"
+  ],
+  "roomPreferential": [
+    {
+      "type": "精緻家庭房",
+      "orgPrice": "NTD 10,800",
+      "preferential": "NTD 5,640／暑假 NTD 6,828",
+      "preferentialHoliday1": "NTD 7,422／暑假、大假日 NTD 9,204",
+      "preferentialHoliday2": "NTD 6,234／暑假 NTD 7,422"
+    },
+    {
+      "type": "和洋家庭房",
+      "orgPrice": "NTD 11,800",
+      "preferential": "NTD 6,190／暑假 NTD 7,488",
+      "preferentialHoliday1": "NTD 8,137／暑假、大假日 NTD 10,084",
+      "preferentialHoliday2": "NTD 6,839／暑假 NTD 8,137"
+    },
+    {
+      "type": "花園家庭房",
+      "orgPrice": "NTD 11,800",
+      "preferential": "NTD 6,190／暑假 NTD 7,488",
+      "preferentialHoliday1": "NTD 8,137／暑假、大假日 NTD 10,084",
+      "preferentialHoliday2": "NTD 6,839／暑假 NTD 8,137"
+    },
+    {
+      "type": "經典和洋客房",
+      "orgPrice": "NTD 12,800",
+      "preferential": "NTD 6,740／暑假 NTD 8,148",
+      "preferentialHoliday1": "NTD 8,852／暑假、大假日 NTD 10,964",
+      "preferentialHoliday2": "NTD 7,444／暑假 NTD 8,852"
+    },
+    {
+      "type": "豪華家庭房",
+      "orgPrice": "NTD 12,800",
+      "preferential": "NTD 6,740／暑假 NTD 8,148",
+      "preferentialHoliday1": "NTD 8,852／暑假、大假日 NTD 10,964",
+      "preferentialHoliday2": "NTD 7,444／暑假 NTD 8,852"
+    },
+    {
+      "type": "豪華和洋客房",
+      "orgPrice": "NTD 12,800",
+      "preferential": "NTD 6,740／暑假 NTD 8,148",
+      "preferentialHoliday1": "NTD 8,852／暑假、大假日 NTD 10,964",
+      "preferentialHoliday2": "NTD 7,444／暑假 NTD 8,852"
+    }
+  ],
+  "notice": [
+    "第三人住宿加人收費：每人:$1000+10%",
+    "兒童(115-150cm)$800+10%(含早餐一客)。",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "16.png",
+  "location":"https://www.google.com/maps/place/%E7%A6%8F%E5%AE%B9%E5%A4%A7%E9%A3%AF%E5%BA%97+%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92/@24.3235858,120.6940205,17z/data=!3m1!4b1!4m10!3m9!1s0x3469101a2d228743:0xadabe7cc6c38005f!5m3!1s2023-09-06!4m1!1i2!8m2!3d24.3235809!4d120.6965954!16s%2Fg%2F119trndrk?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de0"
+  },
+  "id":17,
+  "logo": "logo_17.png",
+  "storeName": "麗寶賽車主題旅店",
+  "telephone": " 04-2369-6888",
+  "storeAdd": "台中市后里區月眉南路197號",
+  "contactPerson": "凃懿珊",
+  "limDate": "2023/12/31",
+  "container": [
+    "1.飯店訂房享簽約優惠價(麗寶福容大飯店及麗寶賽車主題旅店)",
+    "2.樂園門票享簽約優惠價(探索世界/馬拉灣/天空之夢/摩天輪)"
+  ],
+  "roomPreferential": [
+    {
+      "type": "探索客房",
+      "orgPrice": "NTD 7,000",
+      "preferential": "NTD 3,550／暑假 NTD 4,705",
+      "preferentialHoliday1": "NTD 4,320／暑假、大假日 NTD 5,475",
+      "preferentialHoliday2": "NTD 3,550／暑假 NTD 5,090"
+    },
+    {
+      "type": "超能客房(一床)",
+      "orgPrice": "NTD 7,500",
+      "preferential": "NTD 3,825／暑假 NTD 5,063",
+      "preferentialHoliday1": "NTD 4,650／暑假、大假日 NTD 5,888",
+      "preferentialHoliday2": "NTD 3825,／暑假 NTD 5,475"
+    },
+    {
+      "type": "超能客房(雙床)",
+      "orgPrice": "NTD 7,500",
+      "preferential": "NTD 3,825／暑假 NTD 5,063",
+      "preferentialHoliday1": "NTD 4,650／暑假、大假日 NTD 5,888",
+      "preferentialHoliday2": "NTD 3,825／暑假 NTD 5,475"
+    },
+    {
+      "type": "競速客房",
+      "orgPrice": "NTD 8,000",
+      "preferential": "NTD 4,100／暑假 NTD 5,420",
+      "preferentialHoliday1": "NTD 4,980／暑假、大假日 NTD 6,300",
+      "preferentialHoliday2": "NTD 4,100／暑假 NTD 5,860"
+    },
+    {
+      "type": "超越客房(雙床)",
+      "orgPrice": "NTD 8,500",
+      "preferential": "NTD 4,375／暑假 NTD 5,778",
+      "preferentialHoliday1": "NTD 5,310／暑假、大假日 NTD 6,713",
+      "preferentialHoliday2": "NTD 4,375／暑假 NTD 6,245"
+    },
+    {
+      "type": "傳奇客房(雙床)",
+      "orgPrice": "NTD 8,500",
+      "preferential": "NTD 4,375／暑假 NTD 5,778",
+      "preferentialHoliday1": "NTD 5,310／暑假、大假日 NTD 6,713",
+      "preferentialHoliday2": "NTD 4,375／暑假 NTD 6,245"
+    },
+    {
+      "type": "極限客房(雙床)",
+      "orgPrice": "NTD 9,000",
+      "preferential": "NTD 4,650／暑假 NTD 6,135",
+      "preferentialHoliday1": "NTD 5,640／暑假、大假日 NTD 7,125",
+      "preferentialHoliday2": "NTD 4,650／暑假 NTD 6,630"
+    }
+  ],
+  "notice": [
+    "第三人住宿加人收費：每人:$1000+10%",
+    "兒童(115-150cm)$800+10%(含早餐一客)。",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "17.png",
+  "location":"https://www.google.com/maps/search/42145%E5%8F%B0%E4%B8%AD%E5%B8%82%E5%90%8E%E9%87%8C%E5%8D%80%E6%9C%88%E7%9C%89%E5%8D%97%E8%B7%AF197%E8%99%9F/@24.3210215,120.6872456,17z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2023-09-06?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de1"
+  },
+  "id":18,
+  "logo": "logo_18.png",
+  "storeName": "麗寶探索世界馬拉灣－單園",
+  "telephone": " 04-2558-6108",
+  "storeAdd": "台中市后里區福容路8號",
+  "contactPerson": "凃懿珊",
+  "limDate": "2023/12/31",
+  "container": [
+    "1.單園 原價每人$1,000元；優惠價每人$700元",
+    "2.探索世界票價不包含新增設之名IP體驗互動館熊大的麗寶小鎮(LINE FRIENDS)入場券，如欲入場參觀需依現場公告價格加購入場券。",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "2",
+  "img": "18.png",
+  "location":"https://www.google.com/maps/place/%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92/@24.3230595,120.6929491,17z/data=!3m1!4b1!4m6!3m5!1s0x34691019f254b6d5:0x7184608a09f163a9!8m2!3d24.3230546!4d120.695524!16s%2Fm%2F05c0q1q?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de2"
+  },
+  "id":19,
+  "logo": "logo_18.png",
+  "storeName": "麗寶探索世界馬拉灣－雙園",
+  "telephone": " 04-2558-6108",
+  "storeAdd": "台中市后里區福容路8號",
+  "contactPerson": "凃懿珊",
+  "limDate": "2023/12/31",
+  "container":[ 
+    "1.水陸聯合票 原價每人$1,500元；優惠價每人$999元",
+    "2.探索世界票價不包含新增設之名IP體驗互動館熊大的麗寶小鎮(LINE FRIENDS)入場券，如欲入場參觀需依現場公告價格加購入場券。",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "2",
+  "img": "19.png",
+  "location":"https://www.google.com/maps/place/%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92/@24.3230595,120.6929491,17z/data=!3m1!4b1!4m6!3m5!1s0x34691019f254b6d5:0x7184608a09f163a9!8m2!3d24.3230546!4d120.695524!16s%2Fm%2F05c0q1q?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de3"
+  },
+  "id":20,
+  "logo": "logo_18.png",
+  "storeName": "麗寶天空之夢-摩天輪",
+  "telephone": " 04-2558-6108",
+  "storeAdd": "台中市后里區福容路8號",
+  "contactPerson": "凃懿珊",
+  "limDate": "2023/12/31",
+  "container": ["原價平日 $300元／假日 $350元；優惠票價每人$250元(平日/假日)。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "2",
+  "img": "20.png",
+  "location":"https://www.google.com/maps/place/%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92/@24.3230595,120.6929491,17z/data=!3m1!4b1!4m6!3m5!1s0x34691019f254b6d5:0x7184608a09f163a9!8m2!3d24.3230546!4d120.695524!16s%2Fm%2F05c0q1q?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de4"
+  },
+  "id":21,
+  "logo": "logo_21.png",
+  "storeName": "格上租車",
+  "telephone": " 04-2518-3060#1939",
+  "storeAdd": "全台門市",
+  "contactPerson": "呂曜廷",
+  "limDate": "2023/12/31",
+  "container": ["於格上Go Smart APP 或至官方網站完成註冊，在「會員專區」輸入專屬序號 : qf6614，升等為VIP 會員，即享專屬租車優惠 : 平日原車型定價63折起/假日原車型定價74折起。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "4",
+  "img": "21.png",
+  "location":"",
+  "area":4
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de5"
+  },
+  "id":22,
+  "logo": "logo_22.png",
+  "storeName": "和運租車",
+  "telephone": " 04-2518-5299#85077",
+  "storeAdd": "全台門市",
+  "contactPerson": "周昱",
+  "limDate": "2023/12/31",
+  "container": ["短期租車提供各車型日租金平日6折、假日7折含稅優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "4",
+  "img": "22.png",
+  "location":"",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de6"
+  },
+  "id":23,
+  "logo": "logo_23.png",
+  "storeName": "iRent租車",
+  "telephone": " 04-2518-5299#85077",
+  "storeAdd": "全台門市",
+  "contactPerson": "周昱",
+  "limDate": "2023/12/31",
+  "container": ["iRent APP自助租車，每月月底統計實際消費時數，回饋10%免費時數。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "4",
+  "img": "23.png",
+  "location":"",
+  "area":4
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de7"
+  },
+  "id":24,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 秀泰文心店",
+  "telephone": " 04-2472-5627",
+  "storeAdd": "臺中市南屯區文心南路289號6樓",
+  "contactPerson": "林佳蓉",
+  "limDate": "2024/03/30",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E7%A7%80%E6%B3%B0%E6%96%87%E5%BF%83%E5%BA%97/@24.1297665,120.6431906,17z/data=!3m1!4b1!4m6!3m5!1s0x3442ab7cb5fc26c9:0xe7ef5d9e552fcd1c!8m2!3d24.1297616!4d120.6457655!16s%2Fg%2F11glfm2t5v?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de8"
+  },
+  "id":25,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 台南三井店",
+  "telephone": " 06-303-2863",
+  "storeAdd": "台南市歸仁區歸仁大道101號2樓",
+  "contactPerson": "徐嫚璟",
+  "limDate": "2025/12/31",
+  "container": ["出示識別證平日享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E5%8F%B0%E5%8D%97%E4%B8%89%E4%BA%95%E5%BA%97/@22.9241718,120.2848673,17z/data=!3m1!4b1!4m6!3m5!1s0x346e736f10051cc1:0xb80cf6947e4f4451!8m2!3d22.9241669!4d120.2874422!16s%2Fg%2F11swp44drm?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974de9"
+  },
+  "id":26,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 台南大潤發",
+  "telephone": " 06-223-1896",
+  "storeAdd": "台南市北區臨安路二段310號2樓",
+  "contactPerson": "曹珮紋",
+  "limDate": "2025/12/31",
+  "container": ["出示識別證平日享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E5%8F%B0%E5%8D%97%E5%A4%A7%E6%BD%A4%E7%99%BC%E5%BA%97/@23.0045179,120.2009174,17z/data=!3m1!4b1!4m6!3m5!1s0x346e77d8ce68f43b:0x428c21cb10382139!8m2!3d23.004513!4d120.2034923!16s%2Fg%2F11n2161wcr?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dea"
+  },
+  "id":27,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 台南遠百成功店",
+  "telephone": " 06-209-1292",
+  "storeAdd": "台南市東區前鋒路210號4樓",
+  "contactPerson": "顏雅瑩",
+  "limDate": "2025/12/31",
+  "container": ["出示識別證平日享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E5%8F%B0%E5%8D%97%E9%81%A0%E7%99%BE%E5%BA%97/@22.9964072,120.2116202,17z/data=!3m1!4b1!4m6!3m5!1s0x346e768da9eb7e13:0x5f7eb5ab55195a05!8m2!3d22.9964023!4d120.2141951!16s%2Fg%2F11byxf9szn?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974deb"
+  },
+  "id":28,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 明曜百貨店",
+  "telephone": " 02-2711-7229",
+  "storeAdd": "台北市忠孝東路四段200號11樓",
+  "contactPerson": "蘇玉曇",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享店內用餐原價95折優惠(假日不適用)。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E5%BF%A0%E5%AD%9D%E6%98%8E%E6%9B%9C%E5%BA%97/@25.0412881,121.5494501,17z/data=!3m2!4b1!5s0x3442abc598374911:0x350ef6672b65f5a4!4m6!3m5!1s0x3442abf8c94398d7:0x278be11679a30467!8m2!3d25.0412833!4d121.552025!16s%2Fg%2F11p07nl0fx?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dec"
+  },
+  "id":29,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 桃園台茂店",
+  "telephone": " 03-222-5025",
+  "storeAdd": "桃園市蘆竹區南崁路一段112號6樓",
+  "contactPerson": "廖苡晴",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89%E6%A1%83%E5%9C%92%E5%8F%B0%E8%8C%82%E5%BA%97/@25.0533417,121.2851944,17z/data=!3m2!4b1!5s0x3442a074874fa837:0x23d5b066e6371b0b!4m6!3m5!1s0x3442a0749013eac3:0xa87b8ede5ef3c6bb!8m2!3d25.0533369!4d121.2877693!16s%2Fg%2F11g7y__w2z?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974ded"
+  },
+  "id":30,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 高雄SKM PARK店",
+  "telephone": " 07-791-5310",
+  "storeAdd": "高雄市前鎮區中安路1-1號大道西三樓",
+  "contactPerson": "店經理",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E9%AB%98%E9%9B%84SKM+Park%E5%BA%97/@22.5818275,120.3267892,17z/data=!3m1!4b1!4m6!3m5!1s0x346e033a49a8da6f:0x2e2840bbf0121e3c!8m2!3d22.5818226!4d120.3293641!16s%2Fg%2F11cnd9zq65?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dee"
+  },
+  "id":31,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 高雄遠百店",
+  "telephone": " 07-331-2677",
+  "storeAdd": "高雄市苓雅區三多四路21號9樓",
+  "contactPerson": "店經理",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E9%AB%98%E9%9B%84%E9%81%A0%E7%99%BE%E5%BA%97/@22.6130137,120.2662584,14z/data=!3m1!5s0x346e037dc5fb367b:0xb11e29ffc1ee3d0a!4m10!1m2!2m1!1z5rau5LmD6JGJIOmrmOmbhOmBoOeZvuW6lw!3m6!1s0x346e03a87a3733a7:0x1b363d0ba8e44883!8m2!3d22.6130137!4d120.3043672!15sChnmtq7kuYPokYkg6auY6ZuE6YGg55m-5bqXIgOIAQFaHyId5rauIOS5g-iRiSDpq5jpm4Qg6YGgIOeZviDlupeSARZzaGFidV9zaGFidV9yZXN0YXVyYW504AEA!16s%2Fg%2F11flq5gf_l?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974def"
+  },
+  "id":32,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 高雄義享店",
+  "telephone": " 07-556-0078",
+  "storeAdd": "高雄市鼓山區大順一路115號7樓",
+  "contactPerson": "店經理",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E7%BE%A9%E4%BA%ABA%E9%A4%A8%E5%BA%97/@22.6552826,120.3039272,17z/data=!3m2!4b1!5s0x346e04fd749a351b:0x39182fe6ff203b26!4m6!3m5!1s0x346e0527c1655c1d:0x8fd62c5bf7db87f9!8m2!3d22.6552777!4d120.3065021!16s%2Fg%2F11n2wr__l6?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df0"
+  },
+  "id":33,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 竹北遠百店",
+  "telephone": " 03-658-1387",
+  "storeAdd": "新竹縣竹北市莊敬北路18號7樓",
+  "contactPerson": "SOGO劉小姐",
+  "limDate": "2026/04/16",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E7%AB%B9%E5%8C%97%E9%81%A0%E7%99%BE%E5%BA%97/@24.8228896,120.8717502,12z/data=!4m10!1m2!2m1!1z5rau5LmD6JGJIOerueWMl-mBoOeZvuW6lw!3m6!1s0x3468372aa211c42b:0xd7769878429d0739!8m2!3d24.8228896!4d121.0241855!15sChnmtq7kuYPokYkg56u55YyX6YGg55m-5bqXIgOIAQFaHCIa5rauIOS5g-iRiSDnq7kg5YyXIOmBoCDnmb6SARZzaGFidV9zaGFidV9yZXN0YXVyYW504AEA!16s%2Fg%2F11rf7c9m8y?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df1"
+  },
+  "id":34,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 SOGO巨城店",
+  "telephone": " 03-515-2195",
+  "storeAdd": "新竹市中央路239號3樓",
+  "contactPerson": "SOGO劉小姐",
+  "limDate": "2026/04/16",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/%E6%B6%AE%E4%B9%83%E8%91%89+%E6%96%B0%E7%AB%B9Sogo%E5%B7%A8%E5%9F%8E%E5%BA%97/@24.8095924,120.9730462,17z/data=!3m1!4b1!4m6!3m5!1s0x34683514fc5547d1:0x92813615f3581ee3!8m2!3d24.8095876!4d120.9756211!16s%2Fg%2F11gj3mqz36?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df2"
+  },
+  "id":35,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 大魯閣湳雅店",
+  "telephone": " 03-533-8760",
+  "storeAdd": "新竹市北區大雅路88號B1",
+  "contactPerson": "SOGO劉小姐",
+  "limDate": "2026/04/16",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/300%E6%96%B0%E7%AB%B9%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E9%9B%85%E8%B7%AF88%E8%99%9Fb1/@24.8189595,120.9673616,17z/data=!4m14!1m8!3m7!1s0x346835cbe2fa9ee5:0x19608819be7a6ea8!2zMzAw5paw56u55biC5YyX5Yy65aSn6ZuF6LevODjomZ9iMQ!3b1!8m2!3d24.8189595!4d120.9695503!10e5!3m4!1s0x346835cbe2fa9ee5:0x19608819be7a6ea8!8m2!3d24.8189595!4d120.9695503?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df3"
+  },
+  "id":36,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 豐原家樂福店",
+  "telephone": " 04-2515-1117",
+  "storeAdd": "台中市豐原區成功路500號5樓",
+  "contactPerson": "吳龍泉",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/420%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%B1%90%E5%8E%9F%E5%8D%80%E6%88%90%E5%8A%9F%E8%B7%AF500%E8%99%9F5%E6%A8%93/@24.2522569,120.7037554,17z/data=!3m1!4b1!4m6!3m5!1s0x346910a8cb2085b5:0x3bd946638709cbc9!8m2!3d24.252252!4d120.7063303!16s%2Fg%2F11n0fqrqmj?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df4"
+  },
+  "id":37,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 嘉義遠百店",
+  "telephone": " 05-284-3262",
+  "storeAdd": "嘉義市西區垂揚路537號7樓",
+  "contactPerson": "賴姿穎",
+  "limDate": "2024/12/31",
+  "container": ["出示識別證享店內用餐原價95折優惠。","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/600%E5%98%89%E7%BE%A9%E5%B8%82%E8%A5%BF%E5%8D%80%E5%9E%82%E6%A5%8A%E8%B7%AF537%E8%99%9F7F/@23.4727933,120.4385503,17z/data=!3m1!4b1!4m6!3m5!1s0x346e942698afbf97:0x3f0f46ef46ca6c6a!8m2!3d23.4727884!4d120.4411252!16s%2Fg%2F11n0fsn0jm?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df5"
+  },
+  "id":38,
+  "logo": "logo_24.png",
+  "storeName": "涮乃葉 寶慶遠百店",
+  "telephone": " 02-2361-1258",
+  "storeAdd": "台北市中正區寶慶路32號6樓",
+  "contactPerson": "林先生",
+  "limDate": "2025/12/31",
+  "container": [
+    "1. 享店內用餐原價95折優惠。",
+    "2. 每證贈鱸魚片或和牛肉丸一份。",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "24.png",
+  "location":"https://www.google.com/maps/place/100%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%AF%B6%E6%85%B6%E8%B7%AF32%E8%99%9FFar+Eastern+Baoqing6F/@25.0416748,121.5065931,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a90a31ffef99:0x3c177d58baac802!8m2!3d25.04167!4d121.509168!16s%2Fg%2F11n0fq70_5?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df6"
+  },
+  "id":39,
+  "logo": "logo_39.png",
+  "storeName": "夏慕尼 台中大隆店",
+  "telephone": " 04-2328-2918",
+  "storeAdd": "台中市西區大隆路43號1F",
+  "contactPerson": "陳品淳",
+  "limDate": "2025/12/31",
+  "container": [
+    "出示會員/員工證消費套餐享9折優惠",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "39.png",
+  "location":"https://www.google.com/maps/place/%E5%A4%8F%E6%85%95%E5%B0%BC%E6%96%B0%E9%A6%99%E6%A6%AD%E9%90%B5%E6%9D%BF%E7%87%92+%E5%8F%B0%E4%B8%AD%E5%A4%A7%E9%9A%86%E5%BA%97/@24.1552019,120.6519901,17z/data=!3m2!4b1!5s0x34693d9a78bd456b:0xf99a22598e9c4!4m6!3m5!1s0x34693d77d59b99f3:0x4531cb69e6bc9d71!8m2!3d24.155197!4d120.654565!16s%2Fg%2F1tdxc09v?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df7"
+  },
+  "id":40,
+  "logo": "logo_40.png",
+  "storeName": "義大皇家飯店",
+  "telephone": " 0975-593-769",
+  "storeAdd": "高雄市大樹區學城路一段153號",
+  "contactPerson": "張先生",
+  "limDate": "2023/12/29",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "豪華客房一大床",
+      "orgPrice": "NTD 11,000",
+      "preferential": "NTD 3,600+10%",
+      "preferentialHoliday1": "NTD 3,600+10%",
+      "preferentialHoliday2": "NTD 3,600+10%"
+    },
+    {
+      "type": "經典客房一大床",
+      "orgPrice": "NTD 11,000",
+      "preferential": "NTD 4,100+10%",
+      "preferentialHoliday1": "NTD 4,100+10%",
+      "preferentialHoliday2": "NTD 4,100+10%"
+    },
+    {
+      "type": "行政客房",
+      "orgPrice": "NTD 15,000",
+      "preferential": "NTD 4,600+10%",
+      "preferentialHoliday1": "NTD 4,600+10%",
+      "preferentialHoliday2": "NTD 4,600+10%"
+    },
+    {
+      "type": "景緻套房",
+      "orgPrice": "NTD 25,000",
+      "preferential": "NTD 6,100+10%",
+      "preferentialHoliday1": "NTD 6,100+10%",
+      "preferentialHoliday2": "NTD 6,100+10%"
+    },
+    {
+      "type": "總裁套房",
+      "orgPrice": "NTD 50,000",
+      "preferential": "NTD 13,600+10%",
+      "preferentialHoliday1": "NTD 13,600+10%",
+      "preferentialHoliday2": "NTD 13,600+10%"
+    }
+  ],
+  "notice": [
+    "非假日之週日~週五入住房型免費升一等級(連續假期及暑假不適用)。",
+    "依住房人數提供自助式早餐。",
+    "免費使用休閒設施:三溫暖，健身房，戶外游泳池，SPA 水療館。",
+    "價格已含5%營業稅。",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "40.png",
+  "location":"https://www.google.com/maps/place/840%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A7%E6%A8%B9%E5%8D%80%E5%AD%B8%E5%9F%8E%E8%B7%AF%E4%B8%80%E6%AE%B5153%E8%99%9F/@22.7297454,120.3989088,17z/data=!3m1!4b1!4m6!3m5!1s0x346e111b52353af9:0x3dc07483307d9ef9!8m2!3d22.7297405!4d120.4014837!16s%2Fg%2F11h79vbl88?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df8"
+  },
+  "id":41,
+  "logo": "logo_41.png",
+  "storeName": "義大天悅飯店",
+  "telephone": " 0975-593-769",
+  "storeAdd": "高雄市大樹區義大八街100號",
+  "contactPerson": "張先生",
+  "limDate": "2023/12/29",
+  "container": "",
+  "roomPreferential": [
+    {
+      "type": "雅緻客房一大床／兩小床",
+      "orgPrice": "NTD 8,000+10%",
+      "preferential": "NTD 3,000+10%",
+      "preferentialHoliday1": "NTD 3,000+10%",
+      "preferentialHoliday2": "NTD 3,000+10%"
+    },
+    {
+      "type": "溫馨家庭房兩中床(3客早餐)",
+      "orgPrice": "NTD 10,000+10%",
+      "preferential": "NTD 3,900+10%",
+      "preferentialHoliday1": "NTD 3,900+10%",
+      "preferentialHoliday2": "NTD 3,900+10%"
+    },
+    {
+      "type": "溫馨家庭房兩中床(4客早餐)",
+      "orgPrice": "NTD 10,000+10%",
+      "preferential": "NTD 4,800+10%",
+      "preferentialHoliday1": "NTD 4,800+10%",
+      "preferentialHoliday2": "NTD 4,800+10%"
+    },
+    {
+      "type": "幸福家庭房一大兩小／兩大床(4客早餐)",
+      "orgPrice": "NTD 12,000+10%",
+      "preferential": "NTD 5,400+10%",
+      "preferentialHoliday1": "NTD 5,400+10%",
+      "preferentialHoliday2": "NTD 5,400+10%"
+    }
+  ],
+  "notice": [
+    "非假日之週日~週五入住房型免費升一等級(連續假期及暑假不適用)。",
+    "依住房人數提供自助式早餐。",
+    "免費使用休閒設施:三溫暖，健身房，戶外游泳池，SPA 水療館。",
+    "價格已含5%營業稅。",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "type": "3",
+  "img": "41.png",
+  "location":"https://www.google.com/maps/place/840%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A7%E6%A8%B9%E5%8D%80%E7%BE%A9%E5%A4%A7%E5%85%AB%E8%A1%97100%E8%99%9F/@22.73091,120.3985487,17z/data=!3m1!4b1!4m6!3m5!1s0x346e1104cb40b859:0xaefcf23d5f80edb2!8m2!3d22.7309051!4d120.4011236!16s%2Fg%2F11j32rcddh?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974df9"
+  },
+  "id":42,
+  "logo": "logo_42.png",
+  "storeName": "義大樂園",
+  "telephone": " 07-656-8080",
+  "storeAdd": "高雄市大樹區學城路一段10號",
+  "contactPerson": "莊先生",
+  "limDate": "2023/12/31",
+  "container": [
+    "1.全日特約全票 優惠價每人$630元 13歲以上~一般成人／身高150以上",
+    "2.特約學童票 優惠價每人$540元 6歲(含)以上~12歲(含)以下／身高115~150cm兒童",
+    "3.特約優待票 優惠價每人$450元 滿3歲以上未滿6歲／身高90~115cm幼童、持有身心障礙證明本人、滿60歲以上長者。",
+    "4.特約午後票 優惠價每人$540元 午後13:30後時段入園。",
+    "5.特約星光票 優惠價每人$270元 週六限定(夜間營運) 16:30後時段入園。",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "2",
+  "img": "42.png",
+  "location":"https://www.google.com/maps/place/840%E9%AB%98%E9%9B%84%E5%B8%82%E5%A4%A7%E6%A8%B9%E5%8D%80%E5%AD%B8%E5%9F%8E%E8%B7%AF%E4%B8%80%E6%AE%B510%E8%99%9F/@22.7303498,120.399368,17z/data=!3m1!4b1!4m6!3m5!1s0x346e111b47da5189:0x16589808b5b32ad2!8m2!3d22.7303449!4d120.4019429!16s%2Fg%2F11g4jvqr_1?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dfa"
+  },
+  "id":43,
+  "logo": "logo_43.png",
+  "storeName": "陶板屋 豐原向陽店",
+  "telephone": " 04-2523-1600",
+  "storeAdd": "臺中市豐原區向陽路130號B1之2",
+  "contactPerson": "羅小姐",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證消費套餐，即贈送主廚私房菜乙份","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "43.png",
+  "location":"https://www.google.com/maps/place/%E9%99%B6%E6%9D%BF%E5%B1%8B+%E8%B1%90%E5%8E%9F%E5%90%91%E9%99%BD%E5%BA%97/@24.2520823,120.7217446,17z/data=!3m1!4b1!4m6!3m5!1s0x34691a10fd08f369:0x12507d4817b43cbd!8m2!3d24.2520774!4d120.7243195!16s%2Fg%2F1tjdp1yn?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dfb"
+  },
+  "id":44,
+  "logo": "logo_43.png",
+  "storeName": "陶板屋 彰化東民店",
+  "telephone": " 04-727-9385",
+  "storeAdd": "彰化市東民街39號",
+  "contactPerson": "劉暐琳",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證消費套餐，即贈送主廚私房菜乙份","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "43.png",
+  "location":"https://www.google.com/maps/place/%E9%99%B6%E6%9D%BF%E5%B1%8B+%E5%BD%B0%E5%8C%96%E6%9D%B1%E6%B0%91%E5%BA%97/@24.0756822,120.5431223,17z/data=!3m1!4b1!4m6!3m5!1s0x3469387e08a943e5:0x5470eeac52837b17!8m2!3d24.0756773!4d120.5456972!16s%2Fg%2F1tcvftxy?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dfc"
+  },
+  "id":45,
+  "logo": "logo_45.png",
+  "storeName": "古拉爵 彰化家樂福店",
+  "telephone": " 04-736-8998",
+  "storeAdd": "彰化市金馬路二段321號1樓",
+  "contactPerson": "林梅香",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享原價95折優惠(國定假日不適用/無法與其他優惠共用)","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "45.png",
+  "location":"https://www.google.com/maps/place/%E7%BE%A9%E5%BC%8F%E5%B1%8B%E5%8F%A4%E6%8B%89%E7%88%B5+%E5%BD%B0%E5%8C%96%E5%AE%B6%E6%A8%82%E7%A6%8F%E5%BA%97/@24.0944902,120.5398732,17z/data=!3m1!4b1!4m6!3m5!1s0x346938bbaa3058e7:0xb0dde3149bec8633!8m2!3d24.0944853!4d120.5424481!16s%2Fg%2F11clygzqfr?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dfd"
+  },
+  "id":46,
+  "logo": "logo_45.png",
+  "storeName": "古拉爵 鳳山家樂福店",
+  "telephone": " 07-740-5105",
+  "storeAdd": "高雄市鳳山區中山西路236號2樓",
+  "contactPerson": "店經理",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享原價95折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "45.png",
+  "location":"https://www.google.com/maps/place/830%E9%AB%98%E9%9B%84%E5%B8%82%E9%B3%B3%E5%B1%B1%E5%8D%80%E4%B8%AD%E5%B1%B1%E8%A5%BF%E8%B7%AF236%E8%99%9F2f/@22.6285575,120.3457465,17z/data=!3m1!4b1!4m5!3m4!1s0x346e1b35ee9325cd:0xc1841ed8cf532712!8m2!3d22.6285526!4d120.3483214?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dfe"
+  },
+  "id":47,
+  "logo": "logo_45.png",
+  "storeName": "古拉爵 高雄遠百店",
+  "telephone": " 07-536-1390",
+  "storeAdd": "高雄市苓雅區三多四路21號12樓",
+  "contactPerson": "店經理",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享原價95折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "45.png",
+  "location":"https://www.google.com/maps/place/%E7%BE%A9%E5%BC%8F%E5%B1%8B%E5%8F%A4%E6%8B%89%E7%88%B5+%E9%AB%98%E9%9B%84%E5%A4%A7%E9%81%A0%E7%99%BE%E5%BA%97/@22.6131598,120.3014764,17z/data=!3m1!4b1!4m6!3m5!1s0x346e037dce07b809:0x6f4d08f34fbb212c!8m2!3d22.6131549!4d120.3040513!16s%2Fg%2F1vp71j8x?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974dff"
+  },
+  "id":48,
+  "logo": "logo_45.png",
+  "storeName": "古拉爵 高雄夢時代店",
+  "telephone": " 07-812-6672",
+  "storeAdd": "高雄市前鎮區中華五路789號B1",
+  "contactPerson": "店經理",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享原價95折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "45.png",
+  "location":"https://www.google.com/maps/place/%E7%BE%A9%E5%BC%8F%E5%B1%8B%E5%8F%A4%E6%8B%89%E7%88%B5+%E9%AB%98%E9%9B%84%E5%A4%A2%E6%99%82%E4%BB%A3%E5%BA%97/@22.5954603,120.3053204,17z/data=!3m2!4b1!5s0x346e0372e920ceed:0xd1d960a569027158!4m6!3m5!1s0x346e0372f4ff4561:0x48a1ddfd358f6625!8m2!3d22.5954554!4d120.3078953!16s%2Fg%2F1pzps3hf_?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e00"
+  },
+  "id":49,
+  "logo": "logo_45.png",
+  "storeName": "古拉爵 高雄三越左營店",
+  "telephone": " 07-359-1936",
+  "storeAdd": "高雄市左營區高鐵路123號8樓",
+  "contactPerson": "店經理",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享原價95折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "45.png",
+  "location":"https://www.google.com/maps/place/%E7%BE%A9%E5%BC%8F%E5%B1%8B%E5%8F%A4%E6%8B%89%E7%88%B5+%E6%96%B0%E5%85%89%E4%B8%89%E8%B6%8A%E5%B7%A6%E7%87%9F%E5%BA%97/@22.6890007,120.3077597,17z/data=!3m2!4b1!5s0x346e056fee04b299:0x97eccc35555ba875!4m6!3m5!1s0x346e057028dbfd71:0x311b68e7c9ab2c31!8m2!3d22.6889958!4d120.3103346!16s%2Fg%2F1v6p6lyf?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e00"
+  },
+  "id":50,
+  "logo": "logo_45.png",
+  "storeName": "古拉爵 台南遠百成功店",
+  "telephone": "06-236-1036",
+  "storeAdd": "台南市東區前鋒路210號4樓",
+  "contactPerson": "店經理",
+  "limDate": "2024/07/25",
+  "container": ["出示識別證平日享店內用餐原價95折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "45.png",
+  "location":"https://www.google.com/maps/place/%E7%BE%A9%E5%BC%8F%E5%B1%8B%E5%8F%A4%E6%8B%89%E7%88%B5+%E5%8F%B0%E5%8D%97%E9%81%A0%E7%99%BE%E6%88%90%E5%8A%9F%E5%BA%97/@22.9962855,120.2143075,15z/data=!4m6!3m5!1s0x346e768c55051851:0x2d4a7d59d28e9b56!8m2!3d22.9962855!4d120.2143075!16s%2Fg%2F1vj5xzlk?entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e01"
+  },
+  "id":51,
+  "logo": "logo_50.png",
+  "storeName": "這一鍋",
+  "telephone": " 04-2251-3376",
+  "storeAdd": "全台門市",
+  "contactPerson": "簡妘珮",
+  "limDate": "2023/12/31",
+  "container": [
+    "1. 這一鍋 (share more分殿除外)-內用單點食材消費滿千元享 95 折優惠",
+    "2. 燒肉同話-內用消費滿千元享 95 折優惠",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "50.png",
+  "location":"",
+  "area":4
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e02"
+  },
+  "id":52,
+  "logo": "logo_51.png",
+  "storeName": "走馬瀨農場",
+  "telephone": " 06-576-0121#3055",
+  "storeAdd": "台南市大內區二溪里唭子瓦60號",
+  "contactPerson": "劉家彣",
+  "limDate": "2023/12/31",
+  "container": [
+    "出示識別證享以下優惠(過年期間及連假不適用)：",
+    "1.純門票$150 (一證限購5張)",
+    "2.蘭花會館平日定價55折、寒暑假平日6折、假日7折(每證限2間)",
+    "請先聯繫商家確認此活動優惠"
+  ],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "2",
+  "img": "51.png",
+  "location":"https://www.google.com/maps/place/%E8%B5%B0%E9%A6%AC%E7%80%A8%E8%BE%B2%E5%A0%B4/@23.1368906,120.4264307,18z/data=!4m10!1m2!2m1!1zNzQy5Y-w5Y2X5biC5aSn5YWn5Y2A5YW25a2Q55OmNjDomZ8!3m6!1s0x346e63d0b0d9e215:0xee9878305f99be15!8m2!3d23.1371777!4d120.4298584!15sCiM3NDLlj7DljZfluILlpKflhafljYDlhbblrZDnk6Y2MOiZn5IBE2Zhcm1faG91c2Vob2xkX3RvdXLgAQA!16s%2Fg%2F11ddx733fj?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e03"
+  },
+  "id":53,
+  "logo": "logo_52.png",
+  "storeName": "SKYLARK 寶慶遠百店",
+  "telephone": " 02-2375-4730",
+  "storeAdd": "台北市中正區寶慶路32號1樓",
+  "contactPerson": "白小姐",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證享原價95折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "52.png",
+  "location":"https://www.google.com/maps/place/Skylark%E6%B4%8B%E9%A3%9F%E2%80%A7%E8%8A%B3%E9%84%B0+%E5%AF%B6%E6%85%B6%E9%81%A0%E7%99%BE%E5%BA%97/@25.0414824,121.506396,17z/data=!3m2!4b1!5s0x3442a90a2fc63e35:0x67c239f4aa27faa7!4m6!3m5!1s0x3442a90b4da2dccb:0x2f7eaf91df7f1375!8m2!3d25.0414776!4d121.5089709!16s%2Fg%2F1hc2rb_hc?hl=zh-TW&entry=ttu",
+  "area":1
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e04"
+  },
+  "id":54,
+  "logo": "logo_52.png",
+  "storeName": "SKYLARK 台中福科店",
+  "telephone": " 02-2462-5180",
+  "storeAdd": "台中市西屯區福科路269號1樓",
+  "contactPerson": "陳小姐",
+  "limDate": "2024/12/31",
+  "container": ["出示識別證平日享原價95折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "52.png",
+  "location":"https://www.google.com/maps/place/Skylark%E6%B4%8B%E9%A3%9F%E2%80%A7%E8%8A%B3%E9%84%B0+%E5%8F%B0%E4%B8%AD%E7%A6%8F%E7%A7%91%E5%BA%97/@24.1815898,120.6230449,17z/data=!3m1!4b1!4m6!3m5!1s0x34691734820acda5:0x72ccfd43e5f8a230!8m2!3d24.1815849!4d120.6256198!16s%2Fg%2F11fnqng3wr?hl=zh-TW&entry=ttu",
+  "area":2
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e05"
+  },
+  "id":55,
+  "logo": "logo_52.png",
+  "storeName": "SKYLARK 高雄義享店",
+  "telephone": "07-556-0393",
+  "storeAdd": "高雄市鼓山區大順一路115號5樓",
+  "contactPerson": "鍾清德",
+  "limDate": "2023/05/31",
+  "container": ["出示識別證平日享原價95折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "52.png",
+  "location":"https://www.google.com/maps/place/Skylark%E6%B4%8B%E9%A3%9F%E2%80%A7%E8%8A%B3%E9%84%B0+%E7%BE%A9%E4%BA%AB%E5%BA%97/@22.6558155,120.303862,17z/data=!3m1!5s0x346e04fd06faa297:0x84258f79bd38af80!4m10!1m2!2m1!1zU0tZTEFSSyDpq5jpm4Tnvqnkuqvlupc!3m6!1s0x346e05491001c6f9:0xc6dafbcc82debb61!8m2!3d22.655143!4d120.3064242!15sChdTS1lMQVJLIOmrmOmbhOe-qeS6q-W6l1ocIhpza3lsYXJrIOmrmOmbhCDnvqkg5LqrIOW6l5IBFmNhbGlmb3JuaWFuX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTjRia3REVFVGbkVBReABAA!16s%2Fg%2F11r4q8gyxt?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e06"
+  },
+  "id":56,
+  "logo": "logo_55.png",
+  "storeName": "橫濱牛排 台南三井店",
+  "telephone": "06-303-2563",
+  "storeAdd": "台南市歸仁區歸仁大道101號2F",
+  "contactPerson": "韓瑞洋",
+  "limDate": "2024/07/25",
+  "container": ["出示識別證平日享店內用餐原價95折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "55.png",
+  "location":"https://www.google.com/maps/place/%E6%A9%AB%E6%BF%B1%E7%89%9B%E6%8E%92+%E5%8F%B0%E5%8D%97%E4%B8%89%E4%BA%95%E5%BA%97/@22.9250213,120.285012,17z/data=!3m1!4b1!4m6!3m5!1s0x346e7371ba835d0d:0x6d2b0fa11aaebd33!8m2!3d22.9250164!4d120.2875869!16s%2Fg%2F11spnpxhgx?hl=zh-TW&entry=ttu",
+  "area":3
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e07"
+  },
+  "id":57,
+  "logo": "logo_56.png",
+  "storeName": "涓豆腐",
+  "telephone": "",
+  "storeAdd": "全台門市",
+  "contactPerson": "",
+  "limDate": "2023/12/31",
+  "container": ["出示識別證消費套餐，即贈送「黃金酥嫩炸豆腐」乙份(限內用)","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "56.png",
+  "location":"",
+  "area":4
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e07"
+  },
+  "id":58,
+  "logo": "logo_57.png",
+  "storeName": "異人館",
+  "telephone": "",
+  "storeAdd": "全台門市",
+  "contactPerson": "",
+  "limDate": "2024/06/30",
+  "container": ["出示識別證享9.5折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "57.png",
+  "location":"",
+  "area":4
+},
+{
+  "_id": {
+    "$oid": "647e81d348dfe76082974e07"
+  },
+  "id":59,
+  "logo": "logo_58.png",
+  "storeName": "薄多義",
+  "telephone": "",
+  "storeAdd": "全台門市",
+  "contactPerson": "",
+  "limDate": "2024/06/19",
+  "container": ["出示識別證享9折優惠","請先聯繫商家確認此活動優惠"],
+  "roomPreferential": "",
+  "notice": "",
+  "type": "1",
+  "img": "58.png",
+  "location":"",
+  "area":4
+}
+]

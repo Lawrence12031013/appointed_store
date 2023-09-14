@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets//css/all.css?20230630v2">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.4.0/axios.min.js" integrity="sha512-uMtXmF28A2Ab/JJO2t/vYhlaa/3ahUOgj1Zf27M5rOo8/+fcTUVH0/E0ll68njmjrLqOBjXM3V9NiPFL5ywWPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>優惠內容</title>
+</head>
+<body>
+    <div id="app">
+       <!-- <p>{{ id }}</p>
+       <p>{{ store }}</p> -->
+       <div class="mx-auto sm:mt-10 mt-4 p-4">
+        <div class="sm:flex justify-center items-center my-8 mx-auto ">
+            <img :src="'./assets/img/' + store.logo" :alt="store.img" onerror="this.src='./assets/img/inova.jpg'" style="max-width: 300px;" class="logo">
+            <div class="sm:text-left sm:mt-0 mt-8 px-8" style="max-width:600px"> 
+                <h1 class="text-3xl leading-10">{{ store.storeName }}</h1>
+                <p class="text-2xl leading-10" v-if="store.telephone != ''">電話：{{ store.telephone }}</p>
+                
+                <p class="text-2xl leading-10">地址：<a :href="store.location" style="border-bottom: 2px solid rgb(229,52,85);">{{ store.storeAdd }}</a></p>
+                <p class="text-2xl leading-10">合約截止：{{ store.limDate }}</p>
+                <div v-if="store.container != ''">
+                <p class="text-2xl leading-10">優惠內容：</p>
+                <p>
+                    <ul v-for="item in store.container">
+                    <li class="text-2xl leading-10">{{ item }}</li>
+                    </ul>
+                </p>
+                </div>
+            </div>
+        </div>
+        <div class="px-2" v-if="store.roomPreferential != ''">
+            <span class="text-2xl">房價優惠內容：</span>
+            <table class="mt-2 px-4 sm:px-0" style="max-width:900px;font-size: 20px;" >
+                <thead>
+                    <tr>
+                        <td class="text-center" style="width: 23%;">房型</td>
+                        <td class="text-center" style="width: 20%;">原價</td>
+                        <td class="text-center" style="width: 20%;">平日</td>
+                        <td class="text-center" style="width: 20%;">優惠</td>
+                        <td class="text-center" style="width: 20%;">連續假期<br>大假日</td>
+                    </tr>
+                </thead>
+                <tbody v-for="item in store.roomPreferential">
+                    <tr>
+                        <td class="text-center">{{ item.type }}</td>
+                        <td class="text-center">{{ item.orgPrice }}</td>
+                        <td class="text-center">{{ item.preferential }}</td>
+                        <td class="text-center">{{ item.preferentialHoliday1 }}</td>
+                        <td class="text-center">{{ item.preferentialHoliday2 }}</td>
+                    </tr>
+                </tbody>
+                <tr>
+                    <td colspan="5">
+                        <ul class="ml-6" v-for="item in store.notice">
+                        <li> {{ item }} </li>
+                    </ul>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="text-center mt-8 mx-auto">
+            <button @click="goback" class="mx-auto mt-4 py-2 px-4 text-white rounded" style="background-color: rgb(190,52,85);">回上一頁</button>
+        </div>
+    </div>
+    </div>
+
+    <script>
+       const app = {
+        data(){
+            return{
+                store:[],
+                id:'',
+            }
+        },
+        // inject:['id'],
+        created(){
+            const urlParams = new URLSearchParams(window.location.search);
+            this.id = urlParams.get('id'); 
+            
+            axios.get('./assets/json/data.appointedStore.json?'+Math.random()).then(res => {
+                this.store = res.data[this.id - 1]
+            }).catch( err => {
+                console.log(err)
+            } )
+        },
+        methods: {
+            goback(){
+                window.history.go(-1)
+            }
+        },
+    }
+
+    Vue.createApp(app).mount('#app')
+    </script>
+</body>
+</html>

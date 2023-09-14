@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets//css/all.css?20230627">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.4.0/axios.min.js" integrity="sha512-uMtXmF28A2Ab/JJO2t/vYhlaa/3ahUOgj1Zf27M5rOo8/+fcTUVH0/E0ll68njmjrLqOBjXM3V9NiPFL5ywWPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <title>特約商店-飯店</title>
+</head>
+<body>
+    <div id="app">
+        <div class="flex justify-around w-100">
+            <button class="text-white w-100 mx-1 py-2 button rounded" style="font-size: 20px;" @click="changeArea(1)" :class="this.area == 1 ? 'active' : ''">北部</button>
+            <button class="text-white w-100 mx-1 py-2 button rounded" style="font-size: 20px;" @click="changeArea(2)" :class="this.area == 2 ? 'active' : ''">中部</button>
+            <button class="text-white w-100 mx-1 py-2 button rounded" style="font-size: 20px;" @click="changeArea(3)" :class="this.area == 3 ? 'active' : ''">南部</button>
+            <!-- <button class="text-white w-100 mx-1 py-2 button rounded" style="font-size: 20px;" @click="changeArea(4)" :class="this.area == 4 ? 'active' : ''">東部</button> -->
+        </div>
+        <div class="w-100 flex flex-wrap padding">
+            <div v-for="item in data" class="w-50" style="min-width:290px;padding: 0 0.3rem;">
+                <a :href="'./detail.html?id=' + item.id">
+                    <div class="relative flex justify-center items-center container cursor-pointer text-center">
+                        <img :src="'./assets/img/' + item.img" onerror="this.src='./assets/img/inova.jpg'" :alt="item.img">
+                        <div class="absolute text-center p-2 opacity-0 content" style="background-color: rgba(255, 255, 255, 0.8);width: 85%;border-radius: 5px;">
+                            <li class="text-xl">{{ item.telephone }}</li>
+                            <li class="text-xl"><span class="text-2xl"></span>{{ item.storeAdd }}</li>
+                        </div>
+                    </div>
+                    <h1 class="text-2xl text-center mb-4"> {{ item.storeName }} </h1>
+                </a>
+            </div>
+        </div>
+        <button class="text-center mx-auto my-10"><a href="./index.html" class="text-white px-4 py-2 rounded" style="font-size: 18px;background-color: rgb(229,52,85);">回上一頁</a></button>
+    </div>
+    <script>
+        const app = {
+            data () {
+            return {
+                data: [],
+                area:1,
+            }
+        },
+        methods: {
+            getData(){
+                axios.get('./assets/json/data.appointedStore.json').then(res => {
+                    const store = res.data.filter((item) => item.type == "3" )
+                    const data = store.filter((item) => ( new Date(item.limDate) - new Date() > 0))
+                    this.data = data.filter((item) => item.area == this.area)
+                    
+                }).catch( err => {
+                    console.log(err)
+                })
+            },
+            changeArea(num){
+                this.area = num
+                this.getData()
+            }
+        },
+        mounted() {
+            this.changeArea(1),
+            this.getData()
+        },
+    }
+
+    Vue.createApp(app).mount('#app')
+    </script>
+</body>
+</html>
